@@ -1,0 +1,4 @@
+1. docker-compose build
+2. docker-compose up
+3. enjoy. postgres database with name spdb (see postgres-db/scripts/db_script.sql) on port 5432.
+User "postgres"
